@@ -12,7 +12,7 @@ This Script uses Twitter(http://mike.verdone.ca/twitter/#install ) Module as API
 Pip install twitter 
 ```
 
-## Running the tests
+## Running
 
 Enter your own Tweets Keys. Tweets will collected based the IDs in Folder SplitAs90000.
 
