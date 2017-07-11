@@ -83,8 +83,8 @@ for filename in fileNames:
         DataDict = ListDicts.next()
         try:
             tweetsResonse = twitter_api.statuses.show(_id=DataDict["tweetsID"])
-            tweetsResonse.maliciousResult = DataDict["maliciousResult"]
-            tweetsResonse.annotationMethod = DataDict["annotationMethod"]
+            # tweetsResonse.maliciousResult = DataDict["maliciousResult"]
+            # tweetsResonse.annotationMethod = DataDict["annotationMethod"]
             List4TweetsResponse.append(tweetsResonse)
         except:
             print "catch error for " + DataDict["tweetsID"]
