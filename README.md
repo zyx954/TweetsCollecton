@@ -7,7 +7,7 @@ Automatic waitting the rest time when reach Twitter limitation.
 
 ## Getting Started
 
-This Script uses Twitter(http://mike.verdone.ca/twitter/#install ) Module as API.
+This Script uses Twitter(http://mike.verdone.ca/twitter/#install ) Module
 
 
 ### Installing
