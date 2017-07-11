@@ -4,12 +4,9 @@ A simple script to collect Tweets Based on Tweets ID. The samle IDs are in Split
 
 ## Getting Started
 
-This Script uses [Twitter][TwitterUrl] Module as API.
-[TwitterUrl]: http://mike.verdone.ca/twitter/#install 
+This Script uses Twitter(http://mike.verdone.ca/twitter/#install ) Module as API.
 
 ### Installing
-
-Twitter Module
 
 ```
 Pip install twitter 
